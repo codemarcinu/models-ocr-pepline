@@ -1,0 +1,154 @@
+{
+  "exact": {
+    "MLEKO 2% 1L              5.99 A": {
+      "name": "Mleko 2%",
+      "category": "NABIAŁ",
+      "unit": "l",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "CHLEB RAZOWY             4.50 A": {
+      "name": "Chleb razowy",
+      "category": "PIECZYWO",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "MASŁO EKSTRA 200G        8.99 A": {
+      "name": "Masło ekstra",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "JAJKA L 10SZT           12.99 A": {
+      "name": "Jajka L",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "SER GOUDA 250G           9.99 A": {
+      "name": "Ser Gouda",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "POMIDORY 1KG             7.50 A": {
+      "name": "Pomidory",
+      "category": "WARZYWA_OWOCE",
+      "unit": "kg",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "BANANY 1KG               5.99 A": {
+      "name": "Banany",
+      "category": "WARZYWA_OWOCE",
+      "unit": "kg",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "MLEKO 2% 1L": {
+      "name": "Mleko 2%",
+      "category": "NABIAŁ",
+      "unit": "l",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "CHLEB RAZOWY": {
+      "name": "Chleb razowy",
+      "category": "PIECZYWO",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "MASŁO EKSTRA 200G": {
+      "name": "Masło ekstra",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "JAJKA L 10SZT": {
+      "name": "Jajka L",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "SER GOUDA 250G": {
+      "name": "Ser Gouda",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "POMIDORY 1KG": {
+      "name": "Pomidory",
+      "category": "WARZYWA_OWOCE",
+      "unit": "kg",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "BANANY 1KG": {
+      "name": "Banany",
+      "category": "WARZYWA_OWOCE",
+      "unit": "kg",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "PARAGON FISKALNY: 123/456/2026": {
+      "name": "Papryka",
+      "category": "WARZYWA_OWOCE",
+      "unit": "kg",
+      "confidence": 0.7272727272727273,
+      "source": "exact"
+    },
+    "KAWA MIELONA            15.99 A": {
+      "name": "Kawa mielona",
+      "category": "NAPOJE",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "fuzzy"
+    },
+    "HERBATA CZARNA           8.50 A": {
+      "name": "Herbata czarna",
+      "category": "NAPOJE",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "fuzzy"
+    }
+  },
+  "shop_patterns": {
+    "Biedronka": [
+      "MLEKO 2% 1L              5.99 A",
+      "CHLEB RAZOWY             4.50 A",
+      "MASŁO EKSTRA 200G        8.99 A",
+      "JAJKA L 10SZT           12.99 A",
+      "SER GOUDA 250G           9.99 A",
+      "POMIDORY 1KG             7.50 A",
+      "BANANY 1KG               5.99 A",
+      "MLEKO 2% 1L",
+      "CHLEB RAZOWY",
+      "MASŁO EKSTRA 200G",
+      "JAJKA L 10SZT",
+      "SER GOUDA 250G",
+      "POMIDORY 1KG",
+      "BANANY 1KG",
+      "PARAGON FISKALNY: 123/456/2026",
+      "KAWA MIELONA            15.99 A",
+      "HERBATA CZARNA           8.50 A"
+    ]
+  },
+  "stats": {
+    "exact_hits": 0,
+    "lru_hits": 0,
+    "pattern_hits": 0,
+    "misses": 1,
+    "total_lookups": 1,
+    "hit_rate": 0.0,
+    "cache_size": 17,
+    "shop_count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "query": "Czy używam technologii: Modular DS, WordPress, CVSS.? Czy mam projekty z tym związane?",
+  "n_results": 3,
+  "response": "Na podstawie dostarczonego kontekstu nie ma żadnych informacji bezpośrednio wskazujących na użycie przez Ciebie technologii takich jak Modular DS, WordPress lub CVSS. Kontekst dotyczy głównie błędów aplikacji i ich wpływu na bezpieczeństwo oraz metod dostępu do systemu Linux. Jeśli chcesz uzyskać informacje o tych technologiach lub dowiedzieć się, czy masz z nimi jakiekolwiek powiązania, potrzebowałbym więcej szczegółów dotyczących Twoich projektów i działań.",
+  "sources": [
+    "Wprowadzenie do bezpieczeństwa Linux - część 1 - SekurakAcademy 2024.md",
+    "2026-01-10-krótki-tytuł-techniczny-nowości-w-top-ten-od-owasp-a.md"
+  ],
+  "timestamp": "2026-01-15T22:21:43.009184"
+}

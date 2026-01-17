@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "nazwa": "Bułka Poznańska z makiem",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Cola",
+      "kategoria": "NAPOJE",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 19.96,
+      "rabat": 0.0,
+      "suma": 19.96
+    },
+    {
+      "nazwa": "Czekolada gorzka",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 3.0,
+      "cena_jedn": 6.890000000000001,
+      "rabat": 0.0,
+      "suma": 20.67
+    },
+    {
+      "nazwa": "Kabanosy",
+      "kategoria": "MIĘSO_WĘDLINY",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 5.99,
+      "rabat": 0.0,
+      "suma": 5.99
+    },
+    {
+      "nazwa": "Mleko",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Szynka",
+      "kategoria": "MIĘSO_WĘDLINY",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko 2%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 2.01,
+      "rabat": 0.0,
+      "suma": 2.01
+    },
+    {
+      "nazwa": "Buraczki zasmażane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Bułka Poznańska z makiem",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Piwo",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Piwo",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Borówki",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Parówki",
+      "kategoria": "MIĘSO_WĘDLINY",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Cola",
+      "kategoria": "NAPOJE",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    }
+  ],
+  "date": "2025-10-30",
+  "total_amount": 48.63,
+  "shop": "Lidl",
+  "stats": {
+    "processing_time": 0.04135942459106445,
+    "cache_hit_rate": 0.12857142857142856,
+    "used_ai": true,
+    "items_count": 18
+  }
+}

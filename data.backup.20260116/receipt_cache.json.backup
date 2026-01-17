@@ -1,0 +1,114 @@
+{
+  "exact": {
+    "MLEKO 2% 1L              5.99 A": {
+      "name": "Mleko 2%",
+      "category": "NABIAŁ",
+      "unit": "l",
+      "confidence": 0.9166666666666665,
+      "source": "exact"
+    },
+    "CHLEB RAZOWY             4.50 A": {
+      "name": "CHLEB RAZOWY",
+      "category": "PIECZYWO",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "JAJKA L 10SZT           12.99 A": {
+      "name": "Jajka",
+      "category": "NABIAŁ",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "exact"
+    },
+    "MLEKO 2% 1L": {
+      "name": "MLEKO 2% 1L",
+      "category": "napoje",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "CHLEB RAZOWY": {
+      "name": "CHLEB RAZOWY",
+      "category": "pieczywo",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "MASŁO EKSTRA 200G": {
+      "name": "MASŁO EKSTRA 200G",
+      "category": "nabiał",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "JAJKA L 10SZT": {
+      "name": "JAJKA L 10SZT",
+      "category": "nabiał",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "SER GOUDA 250G": {
+      "name": "SER GOUDA 250G",
+      "category": "nabiał",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "POMIDORY 1KG": {
+      "name": "POMIDORY 1KG",
+      "category": "warzywa",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "BANANY 1KG": {
+      "name": "BANANY 1KG",
+      "category": "owoce",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "KAWA MIELONA": {
+      "name": "KAWA MIELONA",
+      "category": "napoje",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    },
+    "HERBATA CZARNA": {
+      "name": "HERBATA CZARNA",
+      "category": "napoje",
+      "unit": "szt",
+      "confidence": 1.0,
+      "source": "ai"
+    }
+  },
+  "shop_patterns": {
+    "Biedronka": [
+      "MLEKO 2% 1L              5.99 A",
+      "CHLEB RAZOWY             4.50 A",
+      "JAJKA L 10SZT           12.99 A",
+      "MLEKO 2% 1L",
+      "CHLEB RAZOWY",
+      "MASŁO EKSTRA 200G",
+      "JAJKA L 10SZT",
+      "SER GOUDA 250G",
+      "POMIDORY 1KG",
+      "BANANY 1KG",
+      "KAWA MIELONA",
+      "HERBATA CZARNA"
+    ]
+  },
+  "stats": {
+    "exact_hits": 2,
+    "lru_hits": 0,
+    "pattern_hits": 1,
+    "misses": 6,
+    "total_lookups": 9,
+    "hit_rate": 0.3333333333333333,
+    "cache_size": 12,
+    "shop_count": 1
+  }
+}

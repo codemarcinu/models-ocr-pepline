@@ -1,0 +1,10 @@
+{
+  "query": "Czy używam technologii: Microsoft Quick Assist, Microsoft Teams, PowerShell.? Czy mam projekty z tym związane?",
+  "n_results": 3,
+  "response": "Nie widzę żadnych odniesień do Microsoft Quick Assist, Microsoft Teams ani PowerShell w podanych dokumentach. Nie ma również informacji o projektach związanych z tymi technologiami. Jednakże, jeden z dokumentów dotyczy bezpieczeństwa systemu Linux, co może być powiązane z PowerShell w kontekście używania go do automatyzacji i zarządzania systemami Linux. Wspomniano również o SSH, które jest protokołem często wykorzystywanym do łączenia się z systemami zdalnymi, co może być związane z ideą współpracy zdalnej, jak w przypadku Microsoft Teams. Niemniej jednak, konkretne odniesienia do tych technologii nie są zawarte w podanych dokumentach.",
+  "sources": [
+    "Wprowadzenie do bezpieczeństwa Linux - część 1 - SekurakAcademy 2024.md",
+    "2026-01-10-krótki-tytuł-techniczny-nowości-w-top-ten-od-owasp-a.md"
+  ],
+  "timestamp": "2026-01-15T22:18:00.696770"
+}

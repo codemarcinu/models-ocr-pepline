@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "nazwa": "Bułka Poznańska z makiem",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mięso mielone",
+      "kategoria": "MIĘSO_WĘDLINY",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Buraczki zasmażane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Kukurydza konserwowa",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Cola",
+      "kategoria": "NAPOJE",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Buraczki zasmażane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Filety z makreli w sosie pomidorowym",
+      "kategoria": "RYBY",
+      "jednostka": "puszka",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Piwo Zatecky",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    }
+  ],
+  "date": "2025-12-23",
+  "total_amount": 0.0,
+  "shop": "Lidl",
+  "stats": {
+    "processing_time": 0.02898406982421875,
+    "cache_hit_rate": 0.13580246913580246,
+    "used_ai": true,
+    "items_count": 18
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "query": "Czy używam technologii: Here are the 3 main technology names extracted from the text, comma-separated:\n\nAWS CodeBuild, aws-sdk-js-v3, GitHub? Czy mam projekty z tym związane?",
+  "n_results": 3,
+  "response": "Nie, w podanym kontekście nie ma informacji o używaniu technologii AWS CodeBuild, aws-sdk-js-v3, ani GitHub. Kontekst dotyczy bezpieczeństwa aplikacji i najlepszych praktyk, takich jak zarządzanie zależnościami, aktualizacje bibliotek i skanowanie podatności. Nie ma wzmianki o konkretnych projektach związanych z tymi technologiami.",
+  "sources": [
+    "2026-01-10-krótki-tytuł-techniczny-nowości-w-top-ten-od-owasp-a.md"
+  ],
+  "timestamp": "2026-01-15T22:19:59.755211"
+}

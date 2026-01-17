@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "nazwa": "Cebula",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 4.49,
+      "rabat": 0.0,
+      "suma": 4.49
+    },
+    {
+      "nazwa": "Jogurt grecki",
+      "kategoria": "NABIAŁ",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 2.84,
+      "rabat": 0.0,
+      "suma": 2.84
+    },
+    {
+      "nazwa": "Jogurt grecki",
+      "kategoria": "NABIAŁ",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 2.84,
+      "rabat": 0.0,
+      "suma": 2.84
+    },
+    {
+      "nazwa": "Pomidory",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Pomidory",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Pomidory",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Pomidory",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    }
+  ],
+  "date": "2025-02-24",
+  "total_amount": 10.17,
+  "shop": "Auchan",
+  "stats": {
+    "processing_time": 0.021895647048950195,
+    "cache_hit_rate": 0.12727272727272726,
+    "used_ai": true,
+    "items_count": 7
+  }
+}

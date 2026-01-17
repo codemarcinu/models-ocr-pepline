@@ -1,0 +1,12 @@
+{
+  "items": [],
+  "date": "2025-03-08",
+  "total_amount": 0,
+  "shop": "Auchan",
+  "stats": {
+    "processing_time": 0.022853612899780273,
+    "cache_hit_rate": 0.0,
+    "used_ai": true,
+    "items_count": 0
+  }
+}

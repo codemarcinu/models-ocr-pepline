@@ -1,0 +1,9 @@
+{
+  "query": "What is fibonacci?",
+  "n_results": 5,
+  "response": "The Fibonacci sequence is a series of numbers in which each number (after the first two) is the sum of the two preceding ones. It typically starts with 0 and 1, then continues as follows:\r\n\r\n0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...\r\n\r\nThe sequence is named after Leonardo Fibonacci, an Italian mathematician, who introduced it to the Western world in his book Liber Abaci. The Fibonacci sequence appears in many areas of mathematics, science, and nature, and has several interesting properties and applications.",
+  "sources": [
+    "2026-01-10-krótki-tytuł-techniczny-nowości-w-top-ten-od-owasp-a.md"
+  ],
+  "timestamp": "2026-01-15T19:43:02.816806"
+}

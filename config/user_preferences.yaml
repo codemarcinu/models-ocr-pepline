@@ -1,0 +1,48 @@
+# Preferencje żywieniowe i kuchenne
+dietary:
+  breakfast:
+    preferred:
+      - jajecznica
+      - owsianka z owocami
+      - twaróg z miodem
+    avoid:
+      - płatki zbożowe (zbyt słodkie)
+    time_budget_minutes: 15
+
+  lunch:
+    preferred:
+      - kurczak z warzywami
+      - sałatki z białkiem
+      - zupy jednogarnkowe
+    cuisine_styles:
+      - polska
+      - azjatycka
+    time_budget_minutes: 45
+
+  dinner:
+    preferred:
+      - lekkie dania
+      - kanapki
+    avoid: []
+    time_budget_minutes: 20
+
+  restrictions:
+    allergies: []
+    avoid_ingredients:
+      - grzyby
+      - oliwki
+    dietary_type: null  # opcje: vegetarian, vegan, keto, null
+
+kitchen_equipment:
+  appliances:
+    - piekarnik
+    - kuchenka indukcyjna
+    - blender
+    - airfryer
+    - multicooker
+  cookware:
+    - patelnia żeliwna
+    - wok
+    - garnki indukcyjne
+  missing:
+    - mikser planetarny

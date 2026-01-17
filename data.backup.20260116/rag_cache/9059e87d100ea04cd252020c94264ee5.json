@@ -1,0 +1,10 @@
+{
+  "query": "Test Question",
+  "n_results": 5,
+  "response": "Final Answer",
+  "sources": [
+    "doc1.md",
+    "doc2.md"
+  ],
+  "timestamp": "2026-01-15T19:43:46.410794"
+}

@@ -1,0 +1,78 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "obsidian-brain"
+version = "2.0.0"
+description = "Obsidian AI Second Brain - Personal Assistant"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [
+    { name = "Marcin", email = "marcin@example.com" }
+]
+dependencies = [
+    "chromadb>=0.5.0",
+    "langchain-community==0.3.0",
+    "langchain-ollama==0.2.0",
+    "sentence-transformers>=2.5.0",
+    "faster-whisper>=1.2.1",
+    "rapidfuzz==3.6.1",
+    "flashtext==2.7",
+    "pyannote.audio==3.1.1",
+    "python-dotenv==1.0.1",
+    "watchdog==3.0.0",
+    "ollama>=0.1.6",
+    "edge-tts>=6.1.9",
+    "google-cloud-vision",
+    "google-auth",
+    "google-api-python-client",
+    "google-auth-httplib2",
+    "google-auth-oauthlib",
+    "grpcio==1.62.1",
+    "grpcio-status==1.62.1",
+    "fastapi",
+    "uvicorn",
+    "sqlalchemy",
+    "psycopg2-binary",
+    "PyYAML",
+    "filelock",
+    "google-genai",
+    "Pillow",
+    "rich",
+    "prompt-toolkit",
+    "requests",
+    "pydantic>=2.0.0",
+    "pydantic-settings",
+    "openai",
+    "torch",
+    "torchaudio",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-mock",
+    "black",
+    "isort",
+    "mypy"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = "test_*.py"
+addopts = "-v --strict-markers"
+markers = [
+    "slow: marks tests as slow",
+    "integration: marks tests as integration tests",
+]
+
+[tool.black]
+line-length = 120
+target-version = ['py310']
+
+[tool.isort]
+profile = "black"
+line_length = 120
+multi_line_output = 3

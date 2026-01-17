@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "last_sync": "2026-01-16T12:00:00Z",
+    "version": "1.0"
+  },
+  "items": [
+    {
+      "id": "prod_001",
+      "name": "Mleko",
+      "category": "Nabiał",
+      "quantity": 2.0,
+      "unit": "szt",
+      "min_threshold": 1.0,
+      "last_updated": "2026-01-16T11:00:00Z"
+    },
+    {
+      "id": "prod_002",
+      "name": "Masło",
+      "category": "Tłuszcze",
+      "quantity": 3.0,
+      "unit": "szt",
+      "min_threshold": 1.0,
+      "last_updated": "2026-01-16T11:00:00Z"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "nazwa": "Piwo",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Jajka",
+      "kategoria": "NABIAŁ",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Gruszki",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Sałata",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 4.48,
+      "rabat": 0.0,
+      "suma": 4.48
+    },
+    {
+      "nazwa": "Kiełbasa",
+      "kategoria": "MIĘSO_WĘDLINY",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 7.49,
+      "rabat": 0.0,
+      "suma": 7.49
+    },
+    {
+      "nazwa": "Czekolada gorzka",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Czekolada gorzka",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Czekolada gorzka",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Marchew",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Cebula",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    }
+  ],
+  "date": "2025-04-18",
+  "total_amount": 11.97,
+  "shop": "Auchan",
+  "stats": {
+    "processing_time": 0.027621746063232422,
+    "cache_hit_rate": 0.15492957746478872,
+    "used_ai": true,
+    "items_count": 11
+  }
+}

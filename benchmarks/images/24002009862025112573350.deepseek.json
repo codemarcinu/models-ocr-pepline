@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "nazwa": "Bułka Poznańska z makiem",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Bułki",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Płatki owsiane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Śmietana 18%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Buraczki zasmażane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko 2%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 2.05,
+      "rabat": 0.0,
+      "suma": 2.05
+    },
+    {
+      "nazwa": "Piwo Zatecky",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.51,
+      "rabat": 0.0,
+      "suma": 0.51
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    }
+  ],
+  "date": "2025-11-25",
+  "total_amount": 2.5599999999999996,
+  "shop": "Lidl",
+  "stats": {
+    "processing_time": 0.024579763412475586,
+    "cache_hit_rate": 0.15873015873015872,
+    "used_ai": true,
+    "items_count": 14
+  }
+}

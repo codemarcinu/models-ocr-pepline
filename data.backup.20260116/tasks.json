@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {
+            "id": "task_101",
+            "content": "Kupić ryż do woka",
+            "status": "pending",
+            "priority": "medium",
+            "tags": [
+                "zakupy",
+                "obiad"
+            ],
+            "created_at": "2026-01-16T10:30:00Z",
+            "source": "voice_note_transcription"
+        }
+    ],
+    "shopping_list": [
+        {
+            "item": "Ryż bulgur",
+            "urgent": true
+        },
+        {
+            "item": "Płatki kukurydziane",
+            "urgent": false
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "nazwa": "Gruszki",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 4.48,
+      "rabat": 0.0,
+      "suma": 4.48
+    },
+    {
+      "nazwa": "Gruszki",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 4.48,
+      "rabat": 0.0,
+      "suma": 4.48
+    },
+    {
+      "nazwa": "Jogurt grecki",
+      "kategoria": "NABIAŁ",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 8.58,
+      "rabat": 0.0,
+      "suma": 8.58
+    },
+    {
+      "nazwa": "Ser Gouda",
+      "kategoria": "NABIAŁ",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ziemniaki",
+      "kategoria": "WARZYWA_OWOCE",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 5.39,
+      "rabat": 0.0,
+      "suma": 5.39
+    }
+  ],
+  "date": "2025-03-31",
+  "total_amount": 22.93,
+  "shop": "Auchan",
+  "stats": {
+    "processing_time": 0.022732257843017578,
+    "cache_hit_rate": 0.10869565217391304,
+    "used_ai": true,
+    "items_count": 5
+  }
+}

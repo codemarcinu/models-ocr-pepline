@@ -1,0 +1,78 @@
+data_engineering:
+  tags: ["#data-engineering"]
+  subcategories:
+    receipt_etl:
+      tags: ["#data/receipt-etl"]
+      keywords: 
+        - "receipt bridge"
+        - "paragonocr"
+        - "sqlalchemy"
+        - "postgresql"
+        - "etl"
+        - "deduplikacja"
+        - "hash identyfikacyjny"
+    db_structure:
+      tags: ["#data/db-schema"]
+      keywords:
+        - "tabela paragony"
+        - "tabela produkty"
+        - "pozycja paragonu"
+        - "klucz obcy"
+        - "relacja one-to-many"
+        - "model danych"
+        - "migracja bazy"
+        - "struktura bazy"
+
+compliance:
+  tags: ["#compliance"]
+  subcategories:
+    dora:
+      tags: ["#compliance/dora"]
+      keywords: ["dora", "digital operational resilience", "rezyliencja", "ict risk"]
+    nis2:
+      tags: ["#compliance/nis2"]
+      keywords: ["nis2", "dyrektywa nis", "cyberbezpieczeństwo ue"]
+    rodo:
+      tags: ["#compliance/rodo"]
+      keywords: ["rodo", "gdpr", "ochrona danych"]
+
+cybersec:
+  tags: ["#cybersec"]
+  subcategories:
+    osint:
+      tags: ["#cybersec/osint"]
+      keywords: ["osint", "biały wywiad", "shodan", "maltego"]
+    tools:
+      tags: ["#cybersec/tools"]
+      keywords: ["wazuh", "siem", "splunk", "wireshark", "nmap"]
+    defensive:
+      tags: ["#cybersec/blue-team"]
+      keywords: ["soc", "incydent", "threat hunting"]
+
+tech:
+  tags: ["#tech"]
+  subcategories:
+    python:
+      tags: ["#tech/python"]
+      keywords: ["python", "pip", "django", "flask", "fastapi"]
+    ai:
+      tags: ["#tech/ai"]
+      keywords: ["llm", "ollama", "transformer", "rag", "embedding"]
+
+biznes:
+  tags: ["#biznes"]
+  keywords: ["faktura", "umowa", "podatek", "b2b", "koszty"]
+  subcategories:
+    zakupy:
+      tags: ["#biznes/zakupy"]
+      keywords: ["paragon fiskalny", "sklep", "biedronka", "lidl", "auchan"]
+
+productivity:
+  tags: ["#productivity"]
+  subcategories:
+    todo:
+      tags: ["#todo"]
+      keywords: ["todo", "do zrobienia", "zadanie", "action item", "fixme"]
+    calendar:
+      tags: ["#calendar"]
+      keywords: ["spotkanie", "wizyta", "termin", "deadline", "wydarzenie", "harmonogram"]

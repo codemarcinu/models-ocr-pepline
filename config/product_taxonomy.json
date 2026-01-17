@@ -1,0 +1,844 @@
+{
+  "taxonomy_version": "2026.01.15_LEARNED",
+  "categories": {
+    "NABIAŁ": [
+      "Mleko",
+      "Sery",
+      "Jogurty",
+      "Masło"
+    ],
+    "WARZYWA_OWOCE": [
+      "Świeże",
+      "Mrożone"
+    ],
+    "PIECZYWO": [
+      "Chleb",
+      "Bułki"
+    ],
+    "MIĘSO_WĘDLINY": [
+      "Drób",
+      "Wędliny"
+    ],
+    "SPIŻARNIA": [
+      "Sypkie",
+      "Sosy",
+      "Oleje"
+    ],
+    "NAPOJE": [
+      "Woda",
+      "Soki"
+    ],
+    "CHEMIA_HIGIENA": [
+      "Dom",
+      "Ciało"
+    ],
+    "PRZEKĄSKI": [
+      "Słodkie",
+      "Słone"
+    ],
+    "INNE": [
+      "Usługi",
+      "Torby"
+    ]
+  },
+  "mappings": [
+    {
+      "ocr": "FILETY Z MAKRELI W SOSIE POMIDOROWYM",
+      "name": "Filety z makreli w sosie",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "FILETY Z MAKRELI W SOSIE POMIDOROWYM",
+      "name": "Filety z makreli w sosie pomidorowym",
+      "cat": "Ryby",
+      "unit": "puszki"
+    },
+    {
+      "ocr": "KABANOSY TARCZYŃSKI CHILLI",
+      "name": "Kabanosy Tarczyński chilli",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KECZUP PIKANTNY PUDLISZKI",
+      "name": "Ketchup pikantny Pudliszki",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KECZUP PIKANTNY PUDLISZKI",
+      "name": "Keczup pikantny Pudliszki",
+      "cat": "Dodatki",
+      "unit": "opakowanie"
+    },
+    {
+      "ocr": "BUŁKA POZNAŃSKA Z MAKIEM",
+      "name": "Bułka Poznańska z makiem",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PARÓWKI BERLINKI SZYNKA",
+      "name": "Parówki Berlinki szynka",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "JOGURT SKYR NATURALNY",
+      "name": "Jogurt Skyr naturalny",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SOS AMERICAN MADER 38",
+      "name": "Sos American Mader",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CHLEB WIELOZIARNISTY",
+      "name": "Chleb wieloziarnisty",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PIWOZATECKY0 0,5|PUS",
+      "name": "Piwo Zatecky",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KUKURYDZA KONSERWOWA",
+      "name": "Kukurydza konserwowa",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "NALESNIKIJABŁKO400GJ",
+      "name": "Naleśniki jabłko",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "NOWY PRODUKT TESTOWY",
+      "name": "Produkt testowy",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SZARPANA WIEPRZOWINA",
+      "name": "Szarpana wieprzowina",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SOS AMERICAN MADE 38",
+      "name": "Sos American Made 38",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PŁATKI KUKURYDZIANE",
+      "name": "Płatki kukurydziane",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KAWA ROZPUSZCZALNA",
+      "name": "Kawa rozpuszczalna",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "OLEJ SŁONECZNIKOWY",
+      "name": "Olej słonecznikowy",
+      "cat": "SPIŻARNIA",
+      "unit": "l"
+    },
+    {
+      "ocr": "SOSAMERICANMADER38",
+      "name": "Sos American Mader",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "BURACZKI ZASMAŻANE",
+      "name": "Buraczki zasmażane",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "GROSZEK KONSERWOWY",
+      "name": "Groszek konserwowy",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MLEKO WYPAS UHT 2",
+      "name": "Mleko Wypas UHT 2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "MASŁO EKSTRA 200G",
+      "name": "Masło ekstra",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "ŚMIETANKA DO KAWY",
+      "name": "Śmietanka do kawy",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PARÓWBERLSZYN360G",
+      "name": "Parówki Berlinki szynka",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MAKARON SPAGHETTI",
+      "name": "Makaron spaghetti",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CIASTKA ORZECHOWE",
+      "name": "Ciastka orzechowe",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CZEKOLADA MLECZNA",
+      "name": "Czekolada mleczna",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "JOGURT NATURALNY",
+      "name": "Jogurt naturalny",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SOK POMARAŃCZOWY",
+      "name": "Sok pomarańczowy",
+      "cat": "NAPOJE",
+      "unit": "l"
+    },
+    {
+      "ocr": "WODA NIEGAZOWANA",
+      "name": "Woda niegazowana",
+      "cat": "NAPOJE",
+      "unit": "l"
+    },
+    {
+      "ocr": "MAJONEZ KIELECKI",
+      "name": "Majonez Kielecki",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "TUŃCZYK W PUSZCE",
+      "name": "Tuńczyk w puszce",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "NALEŚNIKI JABŁKO",
+      "name": "Naleśniki jabłko",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "NALEŚNIKISER400G",
+      "name": "Naleśniki ser",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CZEKOLADA GORZKA",
+      "name": "Czekolada gorzka",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MLEKO SWIEZE 2%",
+      "name": "Mleko 2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "HERBATA ZIELONA",
+      "name": "Herbata zielona",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "HERBATA OWOCOWA",
+      "name": "Herbata owocowa",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "FASOLA CZERWONA",
+      "name": "Fasola czerwona",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MLEKOWYPASUHT2",
+      "name": "Mleko Wypas UHT 2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "SER GOUDA 250G",
+      "name": "Ser Gouda",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KAWA ZIARNISTA",
+      "name": "Kawa ziarnista",
+      "cat": "NAPOJE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "HERBATA CZARNA",
+      "name": "Herbata czarna",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PULLED PORK WG",
+      "name": "Pulled pork",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KASZA GRYCZANA",
+      "name": "Kasza gryczana",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "OLEJ RZEPAKOWY",
+      "name": "Olej rzepakowy",
+      "cat": "SPIŻARNIA",
+      "unit": "l"
+    },
+    {
+      "ocr": "OLIWA Z OLIWEK",
+      "name": "Oliwa z oliwek",
+      "cat": "SPIŻARNIA",
+      "unit": "l"
+    },
+    {
+      "ocr": "OGÓRKI KISZONE",
+      "name": "Ogórki kiszone",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PŁATKI OWSIANE",
+      "name": "Płatki owsiane",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CIASTKORZE210G",
+      "name": "Ciastka orzechowe",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CIASTKA CHAŁWA",
+      "name": "Ciastka chałwa",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CIASTKCHAŁ210G",
+      "name": "Ciastka chałwa",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MLEKO 2,0% 1L",
+      "name": "Mleko 2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "MLEKO 3,2% 1L",
+      "name": "Mleko 3,2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "MASŁO POLSKIE",
+      "name": "Masło polskie",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "JAJKA L 10SZT",
+      "name": "Jajka L",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "JAJKA M 10SZT",
+      "name": "Jajka M",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SEREK WIEJSKI",
+      "name": "Serek wiejski",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "JOG SKYR NATU",
+      "name": "Jogurt Skyr naturalny",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "JOGURT GRECKI",
+      "name": "Jogurt grecki",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CHLEB PSZENNY",
+      "name": "Chleb pszenny",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "WODA GAZOWANA",
+      "name": "Woda gazowana",
+      "cat": "NAPOJE",
+      "unit": "l"
+    },
+    {
+      "ocr": "KURCZAK FILET",
+      "name": "Kurczak filet",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MIĘSO MIELONE",
+      "name": "Mięso mielone",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MAKARON PENNE",
+      "name": "Makaron penne",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "KASZA JAGLANA",
+      "name": "Kasza jaglana",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "NALEŚNIKI SER",
+      "name": "Naleśniki ser",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MLEKO UHT 2%",
+      "name": "Mleko UHT 2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "JOG.NAT.ZOTT",
+      "name": "Jogurt naturalny Zott",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "ŚMIETANA 18%",
+      "name": "Śmietana 18%",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "ŚMIETANA 30%",
+      "name": "Śmietana 30%",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "POMIDORY 1KG",
+      "name": "Pomidory",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CHLEB RAZOWY",
+      "name": "Chleb razowy",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KAWA MIELONA",
+      "name": "Kawa mielona",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SOK JABŁKOWY",
+      "name": "Sok jabłkowy",
+      "cat": "NAPOJE",
+      "unit": "l"
+    },
+    {
+      "ocr": "PIWO ZATECKY",
+      "name": "Piwo Zatecky",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KURCZAK CAŁY",
+      "name": "Kurczak cały",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MĄKA PSZENNA",
+      "name": "Mąka pszenna",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "FASOLA BIAŁA",
+      "name": "Fasola biała",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CIASTKA CHAŁ",
+      "name": "Ciastka chałwa",
+      "cat": "PRZEKĄSKI",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CIASTKA ORZE",
+      "name": "Ciastka orzechowe",
+      "cat": "PRZEKĄSKI",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MLEKO 2% 1L",
+      "name": "Mleko 2%",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "MASŁO EXTRA",
+      "name": "Masło ekstra",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "CHLEB ŻYTNI",
+      "name": "Chleb żytni",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "BUŁKA TARTA",
+      "name": "Bułka tarta",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "RYŻ BRĄZOWY",
+      "name": "Ryż brązowy",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MĄKA ŻYTNIA",
+      "name": "Mąka żytnia",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MASŁO 200G",
+      "name": "Masło",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "BANANY 1KG",
+      "name": "Banany",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "POMARAŃCZE",
+      "name": "Pomarańcze",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MANDARYNKI",
+      "name": "Mandarynki",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "SOS SOJOWY",
+      "name": "Sos sojowy",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SER ŻÓŁTY",
+      "name": "Ser żółty",
+      "cat": "NABIAŁ",
+      "unit": "kg"
+    },
+    {
+      "ocr": "SER BIAŁY",
+      "name": "Ser biały",
+      "cat": "NABIAŁ",
+      "unit": "kg"
+    },
+    {
+      "ocr": "ZIEMNIAKI",
+      "name": "Ziemniaki",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "TRUSKAWKI",
+      "name": "Truskawki",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "RYŻ BIAŁY",
+      "name": "Ryż biały",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MUSZTARDA",
+      "name": "Musztarda",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "BANAN LUZ",
+      "name": "Banany",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "POMIDORY",
+      "name": "Pomidory",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "KALAFIOR",
+      "name": "Kalafior",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "KIEŁBASA",
+      "name": "Kiełbasa",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "kg"
+    },
+    {
+      "ocr": "KABANOSY",
+      "name": "Kabanosy",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PAPRYKA",
+      "name": "Papryka",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CZOSNEK",
+      "name": "Czosnek",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MARCHEW",
+      "name": "Marchew",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "BROKUŁY",
+      "name": "Brokuły",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "GRUSZKI",
+      "name": "Gruszki",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "BORÓWKI",
+      "name": "Borówki",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "PARÓWKI",
+      "name": "Parówki",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MAKARON",
+      "name": "Makaron",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "KETCHUP",
+      "name": "Ketchup",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "MAJONEZ",
+      "name": "Majonez",
+      "cat": "SPIŻARNIA",
+      "unit": "szt"
+    },
+    {
+      "ocr": "UNKNOWN",
+      "name": "Unknown",
+      "cat": "INNE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "TWARÓG",
+      "name": "Twaróg",
+      "cat": "NABIAŁ",
+      "unit": "kg"
+    },
+    {
+      "ocr": "OGÓRKI",
+      "name": "Ogórki",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CEBULA",
+      "name": "Cebula",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "SAŁATA",
+      "name": "Sałata",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "BANANY",
+      "name": "Banany",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "JABŁKA",
+      "name": "Jabłka",
+      "cat": "WARZYWA_OWOCE",
+      "unit": "kg"
+    },
+    {
+      "ocr": "SZYNKA",
+      "name": "Szynka",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "kg"
+    },
+    {
+      "ocr": "CUKIER",
+      "name": "Cukier",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "JAJKA",
+      "name": "Jajka",
+      "cat": "NABIAŁ",
+      "unit": "szt"
+    },
+    {
+      "ocr": "BUŁKI",
+      "name": "Bułki",
+      "cat": "PIECZYWO",
+      "unit": "szt"
+    },
+    {
+      "ocr": "SCHAB",
+      "name": "Schab wieprzowy",
+      "cat": "MIĘSO_WĘDLINY",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MUSLI",
+      "name": "Musli",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    },
+    {
+      "ocr": "MLEKO",
+      "name": "Mleko",
+      "cat": "NABIAŁ",
+      "unit": "l"
+    },
+    {
+      "ocr": "COLA",
+      "name": "Cola",
+      "cat": "NAPOJE",
+      "unit": "l"
+    },
+    {
+      "ocr": "PIWO",
+      "name": "Piwo",
+      "cat": "NAPOJE",
+      "unit": "szt"
+    },
+    {
+      "ocr": "OCET",
+      "name": "Ocet",
+      "cat": "SPIŻARNIA",
+      "unit": "l"
+    },
+    {
+      "ocr": "SÓL",
+      "name": "Sól",
+      "cat": "SPIŻARNIA",
+      "unit": "kg"
+    }
+  ]
+}

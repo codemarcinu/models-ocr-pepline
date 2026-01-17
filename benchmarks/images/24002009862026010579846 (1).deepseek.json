@@ -1,0 +1,238 @@
+{
+  "items": [
+    {
+      "nazwa": "Bułka Poznańska z makiem",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Szynka",
+      "kategoria": "MIĘSO_WĘDLINY",
+      "jednostka": "kg",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Chleb wieloziarnisty",
+      "kategoria": "PIECZYWO",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Piwo",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Buraczki zasmażane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Piwo Zatecky",
+      "kategoria": "NAPOJE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.35,
+      "rabat": 0.0,
+      "suma": 0.35
+    },
+    {
+      "nazwa": "Buraczki zasmażane",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "PRZEKĄSKI",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ocet",
+      "kategoria": "SPIŻARNIA",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko Wypas UHT 2%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko Wypas UHT 2%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko Wypas UHT 2%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Mleko Wypas UHT 2%",
+      "kategoria": "NABIAŁ",
+      "jednostka": "l",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Ciastka orzechowe",
+      "kategoria": "INNE",
+      "jednostka": "szt",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    },
+    {
+      "nazwa": "Filety z makreli w sosie pomidorowym",
+      "kategoria": "RYBY",
+      "jednostka": "puszka",
+      "ilosc": 1.0,
+      "cena_jedn": 0.0,
+      "rabat": 0.0,
+      "suma": 0.0
+    }
+  ],
+  "date": "2026-01-05",
+  "total_amount": 0.35,
+  "shop": "Lidl",
+  "stats": {
+    "processing_time": 0.036125898361206055,
+    "cache_hit_rate": 0.09836065573770492,
+    "used_ai": true,
+    "items_count": 25
+  }
+}
